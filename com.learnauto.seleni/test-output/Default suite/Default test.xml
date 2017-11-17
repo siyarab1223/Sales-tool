@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-KG4A2AE" name="com.selenium.Library.CommonLibrary" tests="1" failures="0" timestamp="23 Jul 2017 07:38:54 GMT" time="153.735" errors="0">
+  <testcase name="openBrowser" time="153.718" classname="com.selenium.Library.CommonLibrary"/>
+</testsuite>

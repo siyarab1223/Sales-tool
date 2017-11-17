@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="153735" started-at="2017-07-23T13:06:20Z" finished-at="2017-07-23T13:08:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="153735" started-at="2017-07-23T13:06:20Z" finished-at="2017-07-23T13:08:54Z">
+      <class name="com.selenium.Library.CommonLibrary">
+        <test-method status="PASS" signature="openBrowser()" name="openBrowser" duration-ms="153718" started-at="2017-07-23T13:06:20Z" description="function to open browser and enter URL" finished-at="2017-07-23T13:08:54Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
